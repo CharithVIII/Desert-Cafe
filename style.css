@@ -80,3 +80,7 @@ html {
   .emailHelp {
     color: white;
   }
+
+nav {
+    opacity: 0.7;
+}
