@@ -1,0 +1,82 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+  p {
+    color: cyan;
+  }
+
+.info {
+    background-color: black;
+  }
+  
+  .search1 {
+    border-radius:30px;
+    padding: 10px;
+    border: none;
+    border-color:cyan;
+    outline: none;
+  }
+  .button1 {
+    border-radius: 30px;
+    padding: 10px;
+    background-color: cyan;
+    border: none;
+    margin-left: -50px;
+  }
+  
+  .brand{
+    font-family: "Pacifico", cursive;
+    color: cyan;
+  }
+  
+  .navlink{
+    font-family: "Roboto Mono", monospace;
+    color: white;
+    text-decoration: none;
+  }
+
+  .banner{
+    background-image: url("https://www.creamscafe.com/wp-content/uploads/2023/10/FB-Banner-1.png");
+    background-size: cover;
+    background-position: top;
+    height: 90vh;
+  }
+
+  .trending {
+    color: white;
+  }
+
+  .trending-button {
+    border: none;
+    border-radius: 20px;
+    background-color: cyan;
+    padding: 10px;
+  }
+
+  .sub-heading {
+    color: cyan;
+  }
+
+  .society {
+    color: white;
+  }
+
+  .menu {
+    color: white;
+  }
+
+  .contact {
+    color: white;
+    width: 70%;
+    margin: 30px auto; 
+  }
+
+  label {
+    color: white;
+  }
+
+  .emailHelp {
+    color: white;
+  }
